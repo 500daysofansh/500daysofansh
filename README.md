@@ -28,4 +28,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=500daysofansh&show_icons=true&locale=en&layout=compact" alt="500daysofansh" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=500daysofansh&show_icons=true&locale=en" alt="500daysofansh" /></p>
-
+<img src="https://counter.kuber.studio/500daysofansh/hacker/count.svg" alt="Profile views" />
