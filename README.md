@@ -1,2 +1,2 @@
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/500daysofansh/500daysofansh/blob/output/github-snake-dark.svg)
